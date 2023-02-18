@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "title": "data",
+      "author": "dad",
+      "isbn": "d",
+      "id": 1
+    },
+    {
+      "title": "kk",
+      "author": "ll",
+      "isbn": "ll",
+      "id": 2
+    }
+  ]
+}
